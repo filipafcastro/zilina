@@ -4,7 +4,7 @@
 
 [Open Data Bratislava](https://opendata.bratislava.sk/en/) provides freely available data on several topics, such as transportation, economy, politics, etc.
 
-For this challenge in particular, we'll be using data aboutregarding the number of bike passes to Slovakia and Austria at the Berg. We'll be using data from [2016](https://opendata.bratislava.sk/en/dataset/show/cykloscitac-na-hradzi-berg-v-roku-), [2017](https://opendata.bratislava.sk/en/dataset/show/cykloscitac-na-hradzi-berg-v-roku-a), [2018](https://opendata.bratislava.sk/en/dataset/show/cykloscitac-na-hradzi-berg-v-roku-b) and [2019](https://opendata.bratislava.sk/en/dataset/show/cykloscitac-na-hradzi-berg-v-roku-do).
+For this challenge in particular, we'll be using data regarding the number of bike passes to Slovakia and Austria at the Berg. We'll be using data from [2016](https://opendata.bratislava.sk/en/dataset/show/cykloscitac-na-hradzi-berg-v-roku-), [2017](https://opendata.bratislava.sk/en/dataset/show/cykloscitac-na-hradzi-berg-v-roku-a), [2018](https://opendata.bratislava.sk/en/dataset/show/cykloscitac-na-hradzi-berg-v-roku-b) and [2019](https://opendata.bratislava.sk/en/dataset/show/cykloscitac-na-hradzi-berg-v-roku-do).
 
 ## 📚 Repository Structure
 + `data/traffic`: contains the traffic data from 2016 to 2019, extracted from [Open Data Bratislava](https://opendata.bratislava.sk/en/) 
