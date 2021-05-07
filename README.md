@@ -11,7 +11,7 @@ For this challenge in particular, we'll be using data aboutregarding the number 
 
 + `data/weather`: contains the weather historic data from 2016 to 2019, extracted from [meteostat](https://meteostat.net/en) 
 
-+ `data/weather`: contains public holidays in both [Austria](https://en.wikipedia.org/wiki/Public_holidays_in_Austria) and [Slovakia](https://en.wikipedia.org/wiki/Public_holidays_in_Slovakia), manually extracted from [Wikipedia](https://www.wikipedia.org/).
++ `data/holidays`: contains public holidays in both [Austria](https://en.wikipedia.org/wiki/Public_holidays_in_Austria) and [Slovakia](https://en.wikipedia.org/wiki/Public_holidays_in_Slovakia), manually extracted from [Wikipedia](https://www.wikipedia.org/).
 
 + `etl_dataset.py`: merges all the provided data into a clean dataset: `Berg_bicycle_counter_2016_2019.csv`
 
